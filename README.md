@@ -1,8 +1,10 @@
 
 
-__React-Redux template__; an amalgamation of ideas to form a sensible set of conventions for larger scale React projects. Includes example code to guide coding conventions and program structure for new projects.
+# React-Redux template 
 
-For React-Context template see [here]()
+An amalgamation of ideas to form a sensible set of conventions for larger scale React projects. Includes example code to guide coding conventions and program structure for new projects.
+
+For React-Context template see [here](https://github.com/christiaanjl/react-context-template)
 
 ## UI
 Initial project fetches users and their to-do items from [jsonplaceholder](https://jsonplaceholder.typicode.com)
