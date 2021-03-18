@@ -2,11 +2,13 @@
   "name": "react-redux-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://christiaanjl.github.io/react-redux-template",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "@reduxjs/toolkit": "^1.4.0",
-    "axios": "^0.20.0",
+    "@reduxjs/toolkit": "^1.5.0",
+    "axios": "^0.21.1",
+    "gh-pages": "^3.1.0",
     "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -15,6 +17,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

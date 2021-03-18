@@ -6,7 +6,7 @@ function App() {
   return (
       <BrowserRouter>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/react-redux-template">
               <UsersPage />
             </Route>
           </Switch>
