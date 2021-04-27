@@ -4,7 +4,10 @@
 
 An amalgamation of ideas to form a sensible set of conventions for larger scale React projects. Includes example code to guide coding conventions and program structure for new projects.
 
-For React-Context template see [here](https://github.com/christiaanjl/react-context-template)
+Other templates:
+* [React Context](https://github.com/christiaanjl/react-context-template)
+* [Redux-Saga](https://github.com/christiaanjl/react-saga-framework)
+* [Angular](https://github.com/christiaanjl/angular-template)
 
 ## UI
 Initial project fetches users and their to-do items from [jsonplaceholder](https://jsonplaceholder.typicode.com)
