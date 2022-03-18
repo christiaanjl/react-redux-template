@@ -2,7 +2,9 @@
 
 # React-Redux template 
 
-An amalgamation of ideas to form a sensible set of conventions for larger scale React projects. Includes example code to guide coding conventions and program structure for new projects.
+An amalgamation of ideas to form a sensible set of conventions for larger scale React projects inspired by [Robert Savian] and others. 
+Includes example code to guide coding conventions and program structure for new projects. This was created before [Redux Toolkit] and I 
+highly recommend looking at their "official, opinionated, batteries-included toolset" for larger react projects as well. 
 
 Other templates:
 * [React Context](https://github.com/christiaanjl/react-context-template)
@@ -87,4 +89,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Deploy app to GitHub Pages - https://christiaanjl.github.io/react-redux-template/
 
+
+[Robert Savian]: https://betterprogramming.pub/my-awesome-react-redux-structure-6044e5007e22
+[Redux Toolkit]: https://redux-toolkit.js.org/
 
